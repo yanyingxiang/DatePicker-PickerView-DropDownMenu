@@ -90,7 +90,7 @@
         NSString *temp = items[indexpath.row];
         [titleButton setTitle:temp forState:UIControlStateNormal];
     }];
-    [self.view addSubview:dropDownMenu];
+    [self.navigationController.view addSubview:dropDownMenu];
     
 }
 

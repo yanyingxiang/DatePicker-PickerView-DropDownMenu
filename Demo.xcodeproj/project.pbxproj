@@ -18,7 +18,6 @@
 		CF3881251A6E7EF400838F89 /* CustomPickerView.m in Sources */ = {isa = PBXBuildFile; fileRef = CF38811E1A6E7EF400838F89 /* CustomPickerView.m */; };
 		CF3881261A6E7EF400838F89 /* dropdown.png in Resources */ = {isa = PBXBuildFile; fileRef = CF38811F1A6E7EF400838F89 /* dropdown.png */; };
 		CF3881271A6E7EF400838F89 /* DropDownMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = CF3881211A6E7EF400838F89 /* DropDownMenu.m */; };
-		CF3881281A6E7EF400838F89 /* DropDownMenuCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CF3881231A6E7EF400838F89 /* DropDownMenuCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,8 +51,6 @@
 		CF38811F1A6E7EF400838F89 /* dropdown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dropdown.png; sourceTree = "<group>"; };
 		CF3881201A6E7EF400838F89 /* DropDownMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DropDownMenu.h; sourceTree = "<group>"; };
 		CF3881211A6E7EF400838F89 /* DropDownMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DropDownMenu.m; sourceTree = "<group>"; };
-		CF3881221A6E7EF400838F89 /* DropDownMenuCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DropDownMenuCell.h; sourceTree = "<group>"; };
-		CF3881231A6E7EF400838F89 /* DropDownMenuCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DropDownMenuCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,8 +141,6 @@
 				CF38811F1A6E7EF400838F89 /* dropdown.png */,
 				CF3881201A6E7EF400838F89 /* DropDownMenu.h */,
 				CF3881211A6E7EF400838F89 /* DropDownMenu.m */,
-				CF3881221A6E7EF400838F89 /* DropDownMenuCell.h */,
-				CF3881231A6E7EF400838F89 /* DropDownMenuCell.m */,
 			);
 			name = "New Group";
 			sourceTree = "<group>";
@@ -252,7 +247,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				CF3881251A6E7EF400838F89 /* CustomPickerView.m in Sources */,
-				CF3881281A6E7EF400838F89 /* DropDownMenuCell.m in Sources */,
 				CF3881271A6E7EF400838F89 /* DropDownMenu.m in Sources */,
 				CF3881241A6E7EF400838F89 /* CustomActionSheet.m in Sources */,
 				CF3880FD1A6E7EC000838F89 /* ViewController.m in Sources */,
@@ -448,6 +442,7 @@
 				CF3881161A6E7EC000838F89 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CF3881171A6E7EC000838F89 /* Build configuration list for PBXNativeTarget "DemoTests" */ = {
 			isa = XCConfigurationList;
@@ -456,6 +451,7 @@
 				CF3881191A6E7EC000838F89 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

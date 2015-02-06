@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B584ECFD-8732-4783-AE11-1CC9937DBADC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E7DBA934713FE0B578FA2CEB40455CFB93203BC7</key>
+		<string>https://github.com/ryanpeaking/DatePicker-PickerView-DropDownMenu.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Demo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E7DBA934713FE0B578FA2CEB40455CFB93203BC7</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ryanpeaking/DatePicker-PickerView-DropDownMenu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E7DBA934713FE0B578FA2CEB40455CFB93203BC7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E7DBA934713FE0B578FA2CEB40455CFB93203BC7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DatePicker%E3%80%81PickerView%E3%80%81DropDownMenu</string>
+		</dict>
+	</array>
+</dict>
+</plist>
